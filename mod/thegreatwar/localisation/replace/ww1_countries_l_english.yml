@@ -37,7 +37,7 @@
  AZR_fascism:0 "Azerbaijan"
  AZR_fascism_DEF:0 "Azerbaijan"
  AZR_communism:0 "Azerbaijan"
- AZR_communism_DEF:0 "Azerbaijan" 
+ AZR_communism_DEF:0 "Azerbaijan"
  # ===================================================================================================
  # B
  BAV_democratic:0 "Bavaria"
@@ -65,7 +65,7 @@
  BEG_democratic_ADJ:0 "Mexican"
  BEG_neutrality_ADJ:0 "Mexican"
  BEG_communism_ADJ:0 "Mexican"
- 
+
  BOS_democratic:0 "Bosnia and Herzegovina"
  BOS_democratic_DEF:0 "Bosnia and Herzegovina"
  BOS_neutrality:0 "Bosnia and Herzegovina"
@@ -159,14 +159,14 @@
  FEC_democratic_ADJ:0 "Chinese"
  FEC_neutrality_ADJ:0 "Chinese"
  FEC_fascism_ADJ:0 "Chinese"
- FEC_communism_ADJ:0 "Chinese" 
+ FEC_communism_ADJ:0 "Chinese"
  # ===================================================================================================
  # G
  GBL_neutrality:0 "Greater Benelux"
  GBL_democratic:0 "Greater Benelux"
  GBL_fascism:0 "Greater Benelux"
  GBL_communism:0 "Greater Benelux"
- 
+
  GER_fascism:0 "German Reich"
  GER_fascism_DEF:0 "The German Reich"
  GER_democratic:0 "German Republic"
@@ -202,6 +202,8 @@
  HJZ_fascism_ADJ:0 "Arabian"
  HJZ_communism_ADJ:0 "Arabian"
 
+ HUN:0 "Hungary"
+ HUN_DEF:0 "Hungary"
  HUN_neutrality:0 "Hungary"
  HUN_neutrality_DEF:0 "Hungary"
  HUN_democratic:0 "Hungarian Republic"
@@ -209,12 +211,15 @@
  HUN_fascism:0 "Hungary"
  HUN_fascism_DEF:0 "Hungary"
  HUN_communism:0 "Hungarian Soviet Republic"
- HUN_communism_DEF:0 "The Hungarian Soviet Republic" 
+ HUN_communism_DEF:0 "The Hungarian Soviet Republic"
+ HUN_ADJ:0 "Hungarian"
  HUN_neutrality_ADJ:0 "Hungarian"
  HUN_democratic_ADJ:0 "Hungarian"
  HUN_fascism_ADJ:0 "Hungarian"
  HUN_communism_ADJ:0 "Hungarian"
 
+ HSR:0 "Hungary"
+ HSR_DEF:0 "Hungary"
  HSR_neutrality:0 "Hungary"
  HSR_neutrality_DEF:0 "Hungary"
  HSR_democratic:0 "Hungarian Republic"
@@ -222,7 +227,8 @@
  HSR_fascism:0 "Hungary"
  HSR_fascism_DEF:0 "Hungary"
  HSR_communism:0 "Hungarian Soviet Republic"
- HSR_communism_DEF:0 "The Hungarian Soviet Republic" 
+ HSR_communism_DEF:0 "The Hungarian Soviet Republic"
+ HSR_ADJ:0 "Hungarian"
  HSR_neutrality_ADJ:0 "Hungarian"
  HSR_democratic_ADJ:0 "Hungarian"
  HSR_fascism_ADJ:0 "Hungarian"
@@ -270,7 +276,7 @@
  KOR_neutrality_DEF:0 "The Korean Empire"
 
  KUW_neutrality:0 "Kuwait"
- KUW_neutrality_DEF:0 "Kuwait" 
+ KUW_neutrality_DEF:0 "Kuwait"
  # ===================================================================================================
  # L
  LBA_neutrality:0 "Senussi Order"
@@ -301,7 +307,7 @@
  MTN_neutrality:0 "Montenegro"
  MTN_democratic:0 "Montenegro"
  MTN_fascism:0 "Zelenasi Montenegro"
- MTN_communism:0 "Montenegran Social Republic"
+ MTN_communism:0 "Montenegrin Social Republic"
  MTN_neutrality_DEF:0 "Montenegro"
  MTN_democratic_DEF:0 "Principality of Montenegro"
  MTN_fascism_DEF:0 "Zelenasi Montenegro"
@@ -321,6 +327,22 @@
  PAR_neutrality:0 "Paraguay"
  PAR_neutrality_DEF:0 "Paraguay"
 
+ PEN:0 "Northern Persia"
+ PEN_DEF:0 "Northern Persia"
+ PEN_fascism:0 "Northern Persia"
+ PEN_fascism_DEF:0 "Northern Persia"
+ PEN_democratic:0 "Northern Persia"
+ PEN_democratic_DEF:0 "Northern Persia"
+ PEN_neutrality:0 "Northern Persia"
+ PEN_neutrality_DEF:0 "Northern Persia"
+ PEN_communism:0 "Northern Persia"
+ PEN_communism_DEF:0 "Northern Persia"
+ PEN_ADJ:0 "Persian"
+ PEN_fascism_ADJ:0 "Persian"
+ PEN_democratic_ADJ:0 "Persian"
+ PEN_neutrality_ADJ:0 "Persian"
+ PEN_communism_ADJ:0 "Persian"
+
  PER_fascism_DEF:0 "The New Persian Empire"
  PER_democratic:0 "Republic of Persia"
  PER_democratic_DEF:0 "The Republic of Persia"
@@ -332,19 +354,6 @@
  PER_democratic_ADJ:0 "Persian"
  PER_neutrality_ADJ:0 "Persian"
  PER_communism_ADJ:0 "Persian"
-
- PEN_fascism:0 "Northen Persia"
- PEN_fascism_DEF:0 "Northen Persia"
- PEN_democratic:0 "Northen Persia"
- PEN_democratic_DEF:0 "Northen Persia"
- PEN_neutrality:0 "Northen Persia"
- PEN_neutrality_DEF:0 "Northen Persia"
- PEN_communism:0 "Northen Persia"
- PEN_communism_DEF:0 "Northen Persia"
- PEN_fascism_ADJ:0 "Persian"
- PEN_democratic_ADJ:0 "Persian"
- PEN_neutrality_ADJ:0 "Persian"
- PEN_communism_ADJ:0 "Persian"
 
  POL_CONGRESSPOLAND_neutrality:0 "Congress Poland"
  POL_CONGRESSPOLAND_neutrality_DEF:0 "Congress Poland"
@@ -374,7 +383,7 @@
  # ===================================================================================================
  # Q
  QAT_neutrality:0 "Qatar"
- QAT_neutrality_DEF:0 "Qatar" 
+ QAT_neutrality_DEF:0 "Qatar"
 
  QIN_democratic:0 "Republic of China"
  QIN_neutrality:0 "Qing Dynasty"
@@ -456,9 +465,10 @@
  TUN_fascism_DEF:0 "Tunisia"
  TUN_communism_DEF:0 "Tunisia"
  TUN_fascism_ADJ:0 "Tunisian"
+
  TUR_fascism:0 "Ottoman Empire"
  TUR_fascism_DEF:0 "The Ottoman Empire"
- TUR_democratic:0 "The Republic of Turkey" # NEW 
+ TUR_democratic:0 "The Republic of Turkey" # NEW
  TUR_democratic_DEF:0 "The Republic of Turkey"
  TUR_neutrality:0 "Ottoman Empire"
  TUR_neutrality_DEF:0 "The Ottoman Empire"

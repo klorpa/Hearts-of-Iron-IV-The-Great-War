@@ -1,5 +1,6 @@
 ﻿l_german:
 ###  Übersetzung aktuallisiert von Proho  ###
+ # ===================================================================================================
  # A
  ASR_neutrality:0 "Asir"
  ASR_democratic:0 "Asir"
@@ -13,7 +14,7 @@
  ASR_democratic_ADJ:0 "Arabisch"
  ASR_fascism_ADJ:0 "Arabisch"
  ASR_communism_ADJ:0 "Arabisch"
- 
+
  AUH_fascism:0 "Österreich"
  AUH_fascism_DEF:0 "Österreich"
  AUH_democratic:0 "Österreich"
@@ -26,7 +27,7 @@
  AUH_democratic_ADJ:0 "Österreichisch"
  AUH_neutrality_ADJ:0 "Österreich-Ungarisch"
  AUH_communism_ADJ:0 "Österreichisch"
- 
+
  AUS_GermanAustria_neutrality:0 "Deutsch-Österreich"
  AUS_GermanAustria_neutrality_DEF:0 "Die Republik Deutsch-Österreich"
 
@@ -37,7 +38,7 @@
  AZR_fascism:0 "Aserbaidschan"
  AZR_fascism_DEF:0 "Aserbaidschanisch"
  AZR_communism:0 "Aserbaidschan"
- AZR_communism_DEF:0 "Aserbaidschanisch" 
+ AZR_communism_DEF:0 "Aserbaidschanisch"
  # ===================================================================================================
  # B
  BAV_democratic:0 "Freistaat Bayern"
@@ -52,7 +53,7 @@
  BAV_democratic_ADJ:0 "Bayrisch"
  BAV_neutrality_ADJ:0 "Bayrisch"
  BAV_communism_ADJ:0 "Bayrisch"
- 
+
  BEG_neutrality:0 "Mexiko"
  BEG_neutrality_DEF:0 "Mexiko"
  BEG_fascism:0 "Synarchistisches Mexiko"
@@ -65,7 +66,7 @@
  BEG_democratic_ADJ:0 "Mexikanisch"
  BEG_neutrality_ADJ:0 "Mexikanisch"
  BEG_communism_ADJ:0 "Mexikanisch"
- 
+
  BOS_democratic:0 "Bosnien und Herzegowina"
  BOS_neutrality:0 "Bosnien und Herzegowina"
  BOS_fascism:0 "Bosnien und Herzegowina"
@@ -159,14 +160,14 @@
  FEC_democratic_ADJ:0 "Chinesisch"
  FEC_neutrality_ADJ:0 "Chinesisch"
  FEC_fascism_ADJ:0 "Chinesisch"
- FEC_communism_ADJ:0 "Chinesisch" 
+ FEC_communism_ADJ:0 "Chinesisch"
  # ===================================================================================================
  # G
  GBL_neutrality:0 "Groß-Benelux"
  GBL_democratic:0 "Groß-Benelux"
  GBL_fascism:0 "Groß-Benelux"
  GBL_communism:0 "Groß-Benelux"
- 
+
  GER_fascism:0 "Deutsches Reich"
  GER_fascism_DEF:0 "Das Deutsche Reich"
  GER_democratic:0 "Bundesrepublik Deutschland"
@@ -175,7 +176,7 @@
  GER_neutrality_DEF:0 "Das Deutsche Kaiserreich"
  GER_communism:0 "Deutsche Demokratische Republik"
  GER_communism_DEF:0 "Die Deutsche Demokratische Republik"
- 
+
  GER_WEIMAR_neutrality:0 "Deutsches Reich"
  GER_WEIMAR_neutrality_DEF:0 "Das Deutsches Reich"
  GER_WEIMAR_fascism:0 "Deutsches Reich"
@@ -201,7 +202,7 @@
  HJZ_democratic_ADJ:0 "Arabisch"
  HJZ_fascism_ADJ:0 "Arabisch"
  HJZ_communism_ADJ:0 "Arabisch"
- 
+
  HUN_neutrality:0 "Ungarn"
  HUN_neutrality_DEF:0 "Ungarn"
  HUN_democratic:0 "Ungarische Republik"
@@ -209,7 +210,7 @@
  HUN_fascism:0 "Ungarn"
  HUN_fascism_DEF:0 "Ungarn"
  HUN_communism:0 "Ungarische Sowjetrepublik"
- HUN_communism_DEF:0 "Die Ungarische Sowjetrepublik" 
+ HUN_communism_DEF:0 "Die Ungarische Sowjetrepublik"
  HUN_neutrality_ADJ:0 "Ungarisch"
  HUN_democratic_ADJ:0 "Ungarisch"
  HUN_fascism_ADJ:0 "Ungarisch"
@@ -222,7 +223,7 @@
  HSR_fascism:0 "Ungarn"
  HSR_fascism_DEF:0 "Ungarn"
  HSR_communism:0 "Ungarische Sowjetrepublik"
- HSR_communism_DEF:0 "Die Ungarische Sowjetrepublik" 
+ HSR_communism_DEF:0 "Die Ungarische Sowjetrepublik"
  HSR_neutrality_ADJ:0 "Ungarisch"
  HSR_democratic_ADJ:0 "Ungarisch"
  HSR_fascism_ADJ:0 "Ungarisch"
@@ -270,7 +271,7 @@
  KOR_neutrality_DEF:0 "Das Koreanische Reich"
 
  KUW_neutrality:0 "Kuwait"
- KUW_neutrality_DEF:0 "Kuwait" 
+ KUW_neutrality_DEF:0 "Kuwait"
  # ===================================================================================================
  # L
  LBA_neutrality:0 "Senussi Orden"
@@ -297,7 +298,7 @@
  MOR_communism_DEF:0 "Die Republik Marokko"
  MOR_fascism_DEF:0 "Das Abdelhafid Kalifat"
  MOR_fascism_ADJ:0 "Mazirisch"
- 
+
  MTN_neutrality:0 "Montenegro"
  MTN_democratic:0 "Montenegro"
  MTN_fascism:0 "Föderation Montenegro"
@@ -321,18 +322,6 @@
  PAR_neutrality:0 "Paraguay"
  PAR_neutrality_DEF:0 "Paraguay"
 
- PER_fascism_DEF:0 "Das Neue Persische Reich"
- PER_democratic:0 "Republik Persien"
- PER_democratic_DEF:0 "Die Republik Persien"
- PER_neutrality:0 "Persien"
- PER_neutrality_DEF:0 "Persien"
- PER_communism:0 "Sowjetische Republik Persien"
- PER_communism_DEF:0 "Die Persische Sozialistische Sowjetrepublik"
- PER_fascism_ADJ:0 "Persisch"
- PER_democratic_ADJ:0 "Persisch"
- PER_neutrality_ADJ:0 "Persisch"
- PER_communism_ADJ:0 "Persisch"
-
  PEN_fascism:0 "Nordpersien"
  PEN_fascism_DEF:0 "Nordpersien"
  PEN_democratic:0 "Nordpersien"
@@ -345,6 +334,18 @@
  PEN_democratic_ADJ:0 "Persisch"
  PEN_neutrality_ADJ:0 "Persisch"
  PEN_communism_ADJ:0 "Persisch"
+
+ PER_fascism_DEF:0 "Das Neue Persische Reich"
+ PER_democratic:0 "Republik Persien"
+ PER_democratic_DEF:0 "Die Republik Persien"
+ PER_neutrality:0 "Persien"
+ PER_neutrality_DEF:0 "Persien"
+ PER_communism:0 "Sowjetische Republik Persien"
+ PER_communism_DEF:0 "Die Persische Sozialistische Sowjetrepublik"
+ PER_fascism_ADJ:0 "Persisch"
+ PER_democratic_ADJ:0 "Persisch"
+ PER_neutrality_ADJ:0 "Persisch"
+ PER_communism_ADJ:0 "Persisch"
 
  POL_CONGRESSPOLAND_neutrality:0 "Kongress Polen"
  POL_CONGRESSPOLAND_neutrality_DEF:0 "Kongress Polen"
@@ -374,7 +375,7 @@
  # ===================================================================================================
  # Q
  QAT_neutrality:0 "Katar"
- QAT_neutrality_DEF:0 "Katar" 
+ QAT_neutrality_DEF:0 "Katar"
 
  QIN_democratic:0 "Republik China"
  QIN_neutrality:0 "Qing Dynastie"
@@ -402,7 +403,7 @@
  RUS_democratic_ADJ:0 "Russisch"
  RUS_neutrality_ADJ:0 "Russisch"
  RUS_communism_ADJ:0 "Sowjetisch"
- 
+
  RUS_EMPIRE_democratic:0 "Russland"
  RUS_EMPIRE_democratic_DEF:0 "Russland"
  RUS_EMPIRE_neutrality:0 "Russisches Reich"
@@ -456,6 +457,7 @@
  TUN_fascism_DEF:0 "Das Tunesische Reich"
  TUN_communism_DEF:0 "Die Republik Tunesien"
  TUN_fascism_ADJ:0 "Tunesisch"
+
  TUR_fascism:0 "Neo-Osmanisches Reich"
  TUR_fascism_DEF:0 "Das Neo-Osmanische Reich"
  TUR_democratic:0 "Türkei" # NEW
@@ -467,8 +469,8 @@
  TUR_neutrality_ADJ:0 "Türkisch"
 
  TUR_liberalism:0 "Türkei" # FIXED WRONG COUNTRY NAME IN DEMOCRACY (LITERALLY LIBERALISM)
- TUR_liberalism_DEF:0 "Türkei" # FIXED WRONG COUNTRY NAME IN DEMOCRACY (LITERALLY LIBERALISM) 
- 
+ TUR_liberalism_DEF:0 "Türkei" # FIXED WRONG COUNTRY NAME IN DEMOCRACY (LITERALLY LIBERALISM)
+
  TUK_neutrality:0 "Türkei"
  TUK_neutrality_DEF:0 "Türkei"
  TUK_democratic:0 "Türkei"
